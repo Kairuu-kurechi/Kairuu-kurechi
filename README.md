@@ -16,5 +16,5 @@
 **Tools** Git, GitHub, VS Code
 ## 📫 Connect with me
 
-- 💼 [LinkedIn] (https://www.linkedin.com/in/kyle-israel-concepcion-19478421b/)
-- 📧 [kyleisraelg@gmail.com] (mailto:kyleisraelg@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kyle-israel-concepcion-19478421b/)
+- 📧 [kyleisraelg@gmail.com](mailto:kyleisraelg@gmail.com)
